@@ -1,0 +1,9 @@
+numpy
+sklearn
+keras
+tensorflow
+mtcnn
+opencv-python
+tqdm
+keras_vggface
+keras_applications
